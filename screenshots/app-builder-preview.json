@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "نوبتک — رزرو نوبت",
+      "hasCanvas": false,
+      "bodyTextLen": 883,
+      "bodyTextHash": "a0b862d20992cf31e185bcceedb6717494069e0b24cde7c6482bf59fc6a91f77",
+      "bodyTextPrefix": "نوبتک کسب‌وکارها نوبت‌های من پنل کسب‌وکار شروع رایگان ورود نوبت‌",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "نوبتک — رزرو نوبت",
+      "hasCanvas": false,
+      "bodyTextLen": 947,
+      "bodyTextHash": "2f1acd4734067f1d745cc9c5fd83e5e2cbe870956d42ed3f798d6a58908f0370",
+      "bodyTextPrefix": "نوبتک کسب‌وکارها نوبت‌های من پنل کسب‌وکار شروع رایگان ورود نوبت‌",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
